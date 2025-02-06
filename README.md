@@ -9,17 +9,18 @@ Before you begin, ensure you have the following installed:
 ## Cloning the Repository
 
 1. **Clone the repository**:
-   ` ```bash
+    ```bash
    git clone https://github.com/eimanncalderon0711/HomeHarmonixBackup.git
-   cd your-repo-name`
+   cd your-repo-name
 
-  2. **Install dependencies**:
-    If you're using npm:
-        ` ```bash
-        npm install `
-       If you're using Yarn:
-        ```bash
-         yarn install `
+2. **Install dependencies**:
+   - If you're using npm:
+      ```bash
+      npm install
+   - If your using yarn:
+     ``` bash
+     yarn install
+      
 4. **Run the app**:
    - Use expo to run the app you can download it on __https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en-US__
    - Use your android mobile phone
