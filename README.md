@@ -15,16 +15,16 @@ Before you begin, ensure you have the following installed:
 
   2. **Install dependencies**:
     If you're using npm:
-       ` ```bash
+        ` ```bash
         npm install`
-    If you're using Yarn:
-   ` ```bash
-      yarn install`
+       If you're using Yarn:
+        ```bash
+         yarn install `
 4. **Run the app**:
    - Use expo to run the app you can download it on __https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en-US__
    - Use your android mobile phone
    - open the downloaded Expo Go app
    - Scan the QR code that runs in terminal in visual studio code
 
-   ` ```bash
-    expo start `
+    ```bash
+    expo start 
