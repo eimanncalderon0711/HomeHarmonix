@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
   2. **Install dependencies**:
     If you're using npm:
         ` ```bash
-        npm install`
+        npm install `
        If you're using Yarn:
         ```bash
          yarn install `
